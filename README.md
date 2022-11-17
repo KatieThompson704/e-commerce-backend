@@ -26,7 +26,7 @@ The package needed for this application is Node.js. Before starting the applicat
 
 Navigate to the command line in your integrated terminal, and enter npm start.
 
-Please reference the following link for a Demo video of the application:
+Please reference the following link for a Demo video of the application: https://drive.google.com/file/d/1LDyse_eOnXt3v8JAkDjqS6l-xIIqepDF/view
 
 ### Test
 
